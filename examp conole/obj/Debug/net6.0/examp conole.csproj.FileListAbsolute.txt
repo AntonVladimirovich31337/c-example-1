@@ -1,0 +1,15 @@
+/Users/andrejivanov/Desktop/C# GeekBrains/lesson 1 - example1/examp conole/bin/Debug/net6.0/examp conole
+/Users/andrejivanov/Desktop/C# GeekBrains/lesson 1 - example1/examp conole/bin/Debug/net6.0/examp conole.deps.json
+/Users/andrejivanov/Desktop/C# GeekBrains/lesson 1 - example1/examp conole/bin/Debug/net6.0/examp conole.runtimeconfig.json
+/Users/andrejivanov/Desktop/C# GeekBrains/lesson 1 - example1/examp conole/bin/Debug/net6.0/examp conole.dll
+/Users/andrejivanov/Desktop/C# GeekBrains/lesson 1 - example1/examp conole/bin/Debug/net6.0/examp conole.pdb
+/Users/andrejivanov/Desktop/C# GeekBrains/lesson 1 - example1/examp conole/obj/Debug/net6.0/examp conole.csproj.AssemblyReference.cache
+/Users/andrejivanov/Desktop/C# GeekBrains/lesson 1 - example1/examp conole/obj/Debug/net6.0/examp conole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejivanov/Desktop/C# GeekBrains/lesson 1 - example1/examp conole/obj/Debug/net6.0/examp conole.AssemblyInfoInputs.cache
+/Users/andrejivanov/Desktop/C# GeekBrains/lesson 1 - example1/examp conole/obj/Debug/net6.0/examp conole.AssemblyInfo.cs
+/Users/andrejivanov/Desktop/C# GeekBrains/lesson 1 - example1/examp conole/obj/Debug/net6.0/examp conole.csproj.CoreCompileInputs.cache
+/Users/andrejivanov/Desktop/C# GeekBrains/lesson 1 - example1/examp conole/obj/Debug/net6.0/examp conole.dll
+/Users/andrejivanov/Desktop/C# GeekBrains/lesson 1 - example1/examp conole/obj/Debug/net6.0/refint/examp conole.dll
+/Users/andrejivanov/Desktop/C# GeekBrains/lesson 1 - example1/examp conole/obj/Debug/net6.0/examp conole.pdb
+/Users/andrejivanov/Desktop/C# GeekBrains/lesson 1 - example1/examp conole/obj/Debug/net6.0/examp conole.genruntimeconfig.cache
+/Users/andrejivanov/Desktop/C# GeekBrains/lesson 1 - example1/examp conole/obj/Debug/net6.0/ref/examp conole.dll
